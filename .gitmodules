@@ -1,0 +1,6 @@
+[submodule "lib/submodule-repo-a"]
+	path = lib/submodule-repo-a
+	url = git@github.com:melvinsembrano/submodule-repo-a.git
+[submodule "app/submodule-repo-b"]
+	path = app/submodule-repo-b
+	url = git@github.com:melvinsembrano/submodule-repo-b.git
